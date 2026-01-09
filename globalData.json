@@ -1,0 +1,78 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "module-1-foundations/chapter-1-physical-ai-intro/index",
+          "docs": [
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/concept-explanation",
+              "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/exercises",
+              "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/index",
+              "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/learning-objectives",
+              "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/summary",
+              "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/summary",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/technical-depth",
+              "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-1-foundations/intro",
+              "path": "/docs/module-1-foundations/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-2-robotics-middleware/intro",
+              "path": "/docs/module-2-robotics-middleware/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-3-simulation/intro",
+              "path": "/docs/module-3-simulation/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "module-4-ai-brains/intro",
+              "path": "/docs/module-4-ai-brains/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/module-1-foundations/chapter-1-physical-ai-intro/",
+                "label": "Chapter 1: Introduction to Physical AI"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

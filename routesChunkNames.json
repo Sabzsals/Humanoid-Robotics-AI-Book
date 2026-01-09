@@ -1,0 +1,98 @@
+{
+  "/__docusaurus/debug-ebd": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    }
+  },
+  "/__docusaurus/debug/config-442": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    }
+  },
+  "/__docusaurus/debug/content-63e": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-088": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    }
+  },
+  "/__docusaurus/debug/metadata-013": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    }
+  },
+  "/__docusaurus/debug/registry-221": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    }
+  },
+  "/__docusaurus/debug/routes-ac9": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debug-925-4e8"
+    }
+  },
+  "/docs-457": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---docsb-4-e-a78"
+    }
+  },
+  "/docs-6ee": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "version": "version---docs-935-398"
+  },
+  "/docs-e2e": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/docs/module-1-foundations/chapter-1-physical-ai-intro/-655": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1-physical-ai-intro-ce-8-749"
+  },
+  "/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation-447": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1-physical-ai-intro-concept-explanationfec-9e2"
+  },
+  "/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises-b52": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1-physical-ai-intro-exercisesacc-38f"
+  },
+  "/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives-2f3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1-physical-ai-intro-learning-objectivesc-3-c-e0f"
+  },
+  "/docs/module-1-foundations/chapter-1-physical-ai-intro/summary-14c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1-physical-ai-intro-summary-6-bf-e9d"
+  },
+  "/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth-926": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-chapter-1-physical-ai-intro-technical-deptha-5-d-f38"
+  },
+  "/docs/module-1-foundations/intro-d9e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-1-foundations-introcea-15e"
+  },
+  "/docs/module-2-robotics-middleware/intro-5ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-2-robotics-middleware-introec-4-853"
+  },
+  "/docs/module-3-simulation/intro-586": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-3-simulation-intro-8-aa-a70"
+  },
+  "/docs/module-4-ai-brains/intro-b39": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-module-4-ai-brains-intro-9-eb-fc0"
+  }
+}

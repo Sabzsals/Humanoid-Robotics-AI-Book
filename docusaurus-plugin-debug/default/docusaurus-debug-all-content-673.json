@@ -1,0 +1,391 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/docs",
+          "tagsPath": "/docs/tags",
+          "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs",
+          "editUrlLocalized": "https://github.com/Panaversity/textbook-physical-ai/tree/main/i18n/en/docusaurus-plugin-content-docs/current",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "D:\\Humanoid_Robotics_ai-book\\sidebars.js",
+          "contentPath": "D:\\Humanoid_Robotics_ai-book\\docs",
+          "contentPathLocalized": "D:\\Humanoid_Robotics_ai-book\\i18n\\en\\docusaurus-plugin-content-docs\\current",
+          "docs": [
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/concept-explanation",
+              "title": "Concept Explanation - Chapter 1",
+              "description": "The Evolution from Digital AI to Physical AI",
+              "source": "@site/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation.md",
+              "sourceDirName": "module-1-foundations/chapter-1-physical-ai-intro",
+              "slug": "/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation",
+              "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "sidebar_position": 3,
+                "title": "Concept Explanation - Chapter 1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Learning Objectives - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives"
+              },
+              "next": {
+                "title": "Exercises - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises"
+              }
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/exercises",
+              "title": "Exercises - Chapter 1",
+              "description": "Conceptual Exercises",
+              "source": "@site/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises.md",
+              "sourceDirName": "module-1-foundations/chapter-1-physical-ai-intro",
+              "slug": "/module-1-foundations/chapter-1-physical-ai-intro/exercises",
+              "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Exercises - Chapter 1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Concept Explanation - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation"
+              },
+              "next": {
+                "title": "Technical Depth - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth"
+              }
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/index",
+              "title": "Chapter 1: Introduction to Physical AI",
+              "description": "Welcome to the fascinating world of Physical AI! This chapter introduces you to the fundamental concepts that bridge the gap between digital artificial intelligence and the physical world.",
+              "source": "@site/docs/module-1-foundations/chapter-1-physical-ai-intro/index.md",
+              "sourceDirName": "module-1-foundations/chapter-1-physical-ai-intro",
+              "slug": "/module-1-foundations/chapter-1-physical-ai-intro/",
+              "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/chapter-1-physical-ai-intro/index.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Chapter 1: Introduction to Physical AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Learning Objectives - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives"
+              }
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/learning-objectives",
+              "title": "Learning Objectives - Chapter 1",
+              "description": "After completing this chapter, you will be able to:",
+              "source": "@site/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives.md",
+              "sourceDirName": "module-1-foundations/chapter-1-physical-ai-intro",
+              "slug": "/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives",
+              "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/chapter-1-physical-ai-intro/learning-objectives.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "sidebar_position": 2,
+                "title": "Learning Objectives - Chapter 1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Chapter 1: Introduction to Physical AI",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/"
+              },
+              "next": {
+                "title": "Concept Explanation - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/concept-explanation"
+              }
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/summary",
+              "title": "Summary - Chapter 1",
+              "description": "Key Takeaways",
+              "source": "@site/docs/module-1-foundations/chapter-1-physical-ai-intro/summary.md",
+              "sourceDirName": "module-1-foundations/chapter-1-physical-ai-intro",
+              "slug": "/module-1-foundations/chapter-1-physical-ai-intro/summary",
+              "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/summary",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/chapter-1-physical-ai-intro/summary.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 5,
+              "frontMatter": {
+                "sidebar_position": 5,
+                "title": "Summary - Chapter 1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Technical Depth - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth"
+              },
+              "next": {
+                "title": "Module 1: Foundations of Physical AI",
+                "permalink": "/docs/module-1-foundations/intro"
+              }
+            },
+            {
+              "id": "module-1-foundations/chapter-1-physical-ai-intro/technical-depth",
+              "title": "Technical Depth - Chapter 1",
+              "description": "Mathematical Framework for Physical AI",
+              "source": "@site/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth.md",
+              "sourceDirName": "module-1-foundations/chapter-1-physical-ai-intro",
+              "slug": "/module-1-foundations/chapter-1-physical-ai-intro/technical-depth",
+              "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/chapter-1-physical-ai-intro/technical-depth.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 4,
+              "frontMatter": {
+                "sidebar_position": 4,
+                "title": "Technical Depth - Chapter 1"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exercises - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/exercises"
+              },
+              "next": {
+                "title": "Summary - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/summary"
+              }
+            },
+            {
+              "id": "module-1-foundations/intro",
+              "title": "Module 1: Foundations of Physical AI",
+              "description": "Welcome to the first module of \"Physical AI & Humanoid Robotics: Embodied Intelligence in the Real World\". This module establishes the foundational concepts that will guide your understanding of how artificial intelligence interfaces with the physical world.",
+              "source": "@site/docs/module-1-foundations/intro.md",
+              "sourceDirName": "module-1-foundations",
+              "slug": "/module-1-foundations/intro",
+              "permalink": "/docs/module-1-foundations/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-1-foundations/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 1: Foundations of Physical AI"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Summary - Chapter 1",
+                "permalink": "/docs/module-1-foundations/chapter-1-physical-ai-intro/summary"
+              },
+              "next": {
+                "title": "Module 2: Robotics Middleware",
+                "permalink": "/docs/module-2-robotics-middleware/intro"
+              }
+            },
+            {
+              "id": "module-2-robotics-middleware/intro",
+              "title": "Module 2: Robotics Middleware",
+              "description": "Welcome to Module 2 of \"Physical AI & Humanoid Robotics: Embodied Intelligence in the Real World\". This module introduces you to the critical infrastructure that enables complex robotics systems to function effectively.",
+              "source": "@site/docs/module-2-robotics-middleware/intro.md",
+              "sourceDirName": "module-2-robotics-middleware",
+              "slug": "/module-2-robotics-middleware/intro",
+              "permalink": "/docs/module-2-robotics-middleware/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-2-robotics-middleware/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 2: Robotics Middleware"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 1: Foundations of Physical AI",
+                "permalink": "/docs/module-1-foundations/intro"
+              },
+              "next": {
+                "title": "Module 3: Simulation and Control",
+                "permalink": "/docs/module-3-simulation/intro"
+              }
+            },
+            {
+              "id": "module-3-simulation/intro",
+              "title": "Module 3: Simulation and Control",
+              "description": "Welcome to Module 3 of \"Physical AI & Humanoid Robotics: Embodied Intelligence in the Real World\". This module focuses on simulation environments and control systems that allow us to develop and test Physical AI systems safely and efficiently.",
+              "source": "@site/docs/module-3-simulation/intro.md",
+              "sourceDirName": "module-3-simulation",
+              "slug": "/module-3-simulation/intro",
+              "permalink": "/docs/module-3-simulation/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-3-simulation/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 3: Simulation and Control"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 2: Robotics Middleware",
+                "permalink": "/docs/module-2-robotics-middleware/intro"
+              },
+              "next": {
+                "title": "Module 4: AI Brains & Autonomous Humanoids",
+                "permalink": "/docs/module-4-ai-brains/intro"
+              }
+            },
+            {
+              "id": "module-4-ai-brains/intro",
+              "title": "Module 4: AI Brains & Autonomous Humanoids",
+              "description": "Welcome to the final module of \"Physical AI & Humanoid Robotics: Embodied Intelligence in the Real World\". This capstone module integrates all previous concepts to create autonomous humanoid systems that can operate independently in physical environments.",
+              "source": "@site/docs/module-4-ai-brains/intro.md",
+              "sourceDirName": "module-4-ai-brains",
+              "slug": "/module-4-ai-brains/intro",
+              "permalink": "/docs/module-4-ai-brains/intro",
+              "draft": false,
+              "unlisted": false,
+              "editUrl": "https://github.com/Panaversity/textbook-physical-ai/tree/main/docs/module-4-ai-brains/intro.md",
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "Module 4: AI Brains & Autonomous Humanoids"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Module 3: Simulation and Control",
+                "permalink": "/docs/module-3-simulation/intro"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "category",
+                "label": "module-1-foundations",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "category",
+                    "label": "Chapter 1: Introduction to Physical AI",
+                    "collapsible": true,
+                    "collapsed": true,
+                    "items": [
+                      {
+                        "type": "doc",
+                        "id": "module-1-foundations/chapter-1-physical-ai-intro/learning-objectives"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "module-1-foundations/chapter-1-physical-ai-intro/concept-explanation"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "module-1-foundations/chapter-1-physical-ai-intro/exercises"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "module-1-foundations/chapter-1-physical-ai-intro/technical-depth"
+                      },
+                      {
+                        "type": "doc",
+                        "id": "module-1-foundations/chapter-1-physical-ai-intro/summary"
+                      }
+                    ],
+                    "link": {
+                      "type": "doc",
+                      "id": "module-1-foundations/chapter-1-physical-ai-intro/index"
+                    }
+                  },
+                  {
+                    "type": "doc",
+                    "id": "module-1-foundations/intro"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "module-2-robotics-middleware",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-2-robotics-middleware/intro"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "module-3-simulation",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-3-simulation/intro"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "module-4-ai-brains",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "module-4-ai-brains/intro"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": []
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}
